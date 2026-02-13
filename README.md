@@ -165,14 +165,16 @@ Stay tuned! ⭐
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/Dulina-Chandul">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dulina-Chandul&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dulina-Chandul&layout=compact&langs_count=7&theme=radical"/>
-  </a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dulina-Chandul&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dulina-Chandul&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Dulina-Chandul&theme=radical" alt="GitHub Streak" />
+  <img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dulina-Chandul&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dulina-Chandul&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 ---
@@ -227,7 +229,15 @@ graph LR
 
 ---
 
+<div align="center">
 
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Dulina-Chandul/Dulina-Chandul/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
 
 <div align="center">
 
