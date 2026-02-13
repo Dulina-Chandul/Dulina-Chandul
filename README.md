@@ -64,10 +64,7 @@ const dulina = {
 <td width="50%">
 
 ### 🌱 GreenLoop
-
-<a href="https://github.com/Dulina-Chandul/Greenloop">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dulina-Chandul&repo=Greenloop&theme=tokyonight&hide_border=true" />
-</a>
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Dulina-Chandul/Greenloop)
 
 **AI-Powered Smart Waste Marketplace** ♻️
 
@@ -85,16 +82,11 @@ React • TypeScript • Node.js • MongoDB
 Gemini AI • Socket.io • Cloudinary
 ```
 
-[![View Project](https://img.shields.io/badge/View_Project-00C853?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dulina-Chandul/Greenloop)
-
 </td>
 <td width="50%">
 
 ### 🎓 EduNexus
-
-<a href="https://github.com/Dulina-Chandul/EduNexus">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dulina-Chandul&repo=EduNexus&theme=tokyonight&hide_border=true" />
-</a>
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Dulina-Chandul/EduNexus)
 
 **AI-Powered Smart School Management** 📚
 
@@ -112,18 +104,13 @@ JavaScript • React • Node.js
 Express • MongoDB • AI Integration
 ```
 
-[![View Project](https://img.shields.io/badge/View_Project-2196F3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dulina-Chandul/EduNexus)
-
 </td>
 </tr>
 <tr>
 <td width="50%">
 
 ### 📖 Prathibha.lk
-
-<a href="https://github.com/Dulina-Chandul/prathibha-lk-dev">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Dulina-Chandul&repo=prathibha-lk-dev&theme=tokyonight&hide_border=true" />
-</a>
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Dulina-Chandul/prathibha-lk-dev)
 
 **AI-Powered English Learning Platform** 🌐
 
@@ -140,8 +127,6 @@ Making English learning accessible and engaging through AI! An innovative e-lear
 JavaScript • React • Node.js
 AI Integration • Responsive Design
 ```
-
-[![View Project](https://img.shields.io/badge/View_Project-FF6F00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dulina-Chandul/prathibha-lk-dev)
 
 </td>
 <td width="50%">
@@ -165,16 +150,12 @@ Stay tuned! ⭐
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dulina-Chandul&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dulina-Chandul&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dulina-Chandul&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dulina-Chandul&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dulina-Chandul&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dulina-Chandul&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dulina-Chandul&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -224,16 +205,6 @@ graph LR
 [![GitHub](https://img.shields.io/badge/-Dulina--Chandul-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dulina-Chandul)
 
 **Open to collaborations on AI-powered solutions and innovative projects!** 🤝
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/Dulina-Chandul/Dulina-Chandul/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
