@@ -166,9 +166,9 @@ Stay tuned! ⭐
 | 🏅 Achievement | 📅 Year | 🎯 Category |
 |:---|:---:|:---|
 | 🥇 **Gold Medal** - SLIIT CodeFest | 2024 | Senior Coding Competition |
-| 🥉 **2nd Runner-Up** - SLIIT CodeFest | 2024 | National Competition |
-| 🏆 **Champion** - Web Master | 2024 | Web Development |
-| 🎖️ Multiple Competition Participations | 2024 | Various Categories |
+| 🥉 **2nd Runner-Up** - SLIIT CodeFest | 2025 | Senior Coding Competition |
+| 🏆 **Champion** - Web Master | 2025 | Web Development |
+| 🎖️ Multiple Competition Participations | 2025 | Various Categories |
 
 </div>
 
